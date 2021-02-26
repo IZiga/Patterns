@@ -12,7 +12,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{45058FC9-826C-48D3-A5E1-2CAB7BF3EAE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{45058FC9-826C-48D3-A5E1-2CAB7BF3EAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{95D5843F-B310-49E9-93D8-0EBB6DECD0EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{45058FC9-826C-48D3-A5E1-2CAB7BF3EAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45058FC9-826C-48D3-A5E1-2CAB7BF3EAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45058FC9-826C-48D3-A5E1-2CAB7BF3EAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D5843F-B310-49E9-93D8-0EBB6DECD0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D5843F-B310-49E9-93D8-0EBB6DECD0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D5843F-B310-49E9-93D8-0EBB6DECD0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D5843F-B310-49E9-93D8-0EBB6DECD0EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
